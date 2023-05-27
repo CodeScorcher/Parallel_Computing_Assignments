@@ -1,4 +1,4 @@
-# Parallel_Computing_Assignments
+# CS4075 - Concurrent and Distributed Programming Assignments
 
 This set of source code goes over the foundations and practical knowledge about parallel computing. Students 
 will be learning popular parallel computing tools using the C language. In addition, I applied the following:
